@@ -1,0 +1,21 @@
+/* .ag-theme-quartz {
+  --ag-foreground-color: rgb(0, 0, 0);
+  --ag-background-color: rgb(130, 222, 250);
+  --ag-header-background-color: rgb(50, 133, 250);
+  --ag-row-hover-color: rgb(250, 120, 250);
+} */
+
+.red-cell {
+  background-color: rgb(252, 143, 143);
+}
+
+.blue-cell {
+  background-color: rgb(136, 231, 255);
+}
+
+.green-cell-rating {
+  background-color: rgb(164, 248, 164);
+}
+.red-cell-rating {
+  background-color: rgb(255, 110, 110);
+}
